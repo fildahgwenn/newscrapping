@@ -1,0 +1,6 @@
+Packages 
+
+streamlit
+pandas
+pickle
+scrapy
